@@ -178,7 +178,7 @@ Royalty = `price * 3 / 100`, sent to the address bound to `@creator`. Seller rec
 
 ## License
 
-Add your chosen license (e.g., MIT) in this section.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 

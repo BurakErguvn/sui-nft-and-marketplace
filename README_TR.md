@@ -175,7 +175,7 @@ Royalty = `fiyat * 3 / 100` ve `@creator` adresine gönderilir. Satıcı net ola
 
 ## Lisans
 
-Seçtiğiniz lisansı bu bölüme ekleyin (örn. MIT).
+Bu proje MIT Lisansı ile lisanslanmıştır - ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## Sorumluluk Reddi (Disclaimer)
 
